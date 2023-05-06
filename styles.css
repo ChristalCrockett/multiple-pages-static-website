@@ -1,13 +1,30 @@
 body {
-  background-color: blanchedalmond;
+  background-color: #f99b7d;
 }
 
 h1 {
   text-align: center;
-  color: brown;
+  color: #b04759;
 }
 
-a {
-  color: rgb(9, 136, 134);
+footer a {
+  color: #b04759;
   text-align: center;
+  text-decoration: underline;
+  margin: 0 10px;
+}
+
+p {
+  text-align: center;
+}
+
+footer a {
+  text-align: center;
+}
+
+.crossiant-picture {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
